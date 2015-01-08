@@ -7,6 +7,7 @@ public class DLConstants {
 
     public static final String EXTRA_DEX_PATH = "extra.dex.path";
     public static final String EXTRA_CLASS = "extra.class";
+    public static final String EXTRA_PACKAGE = "extra.package";
 
     public static final int ACTIVITY_TYPE_UNKNOWN = -1;
     public static final int ACTIVITY_TYPE_NORMAL = 1;
@@ -18,4 +19,5 @@ public class DLConstants {
     public static final String PROXY_FRAGMENT_ACTIVITY_VIEW_ACTION =
             "com.ryg.dynamicload.proxy.fragmentactivity.VIEW";
 
+    public static final String BRAND_SAMSUNG = "samsung";
 }
